@@ -3,7 +3,6 @@ package com.company;
 public class FizzBuzz {
 
     public static void main(String[] args) {
-        //comment
 
         for (int value = 1; value <= 100; value++) {
 
